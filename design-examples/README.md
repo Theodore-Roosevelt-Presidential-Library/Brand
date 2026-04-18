@@ -1,6 +1,6 @@
 # Design Examples
 
-Finished, approved design work organized by channel. This folder is the primary training reference for AI-assisted design — it shows how TRPL's brand looks in real-world applications.
+Finished, approved design work organized by content type. This folder is the primary training reference for AI-assisted design — it shows how TRPL's brand looks in real-world applications.
 
 When adding examples, include a mix of:
 - Strong "hero" examples that represent the brand at its best
@@ -9,13 +9,27 @@ When adding examples, include a mix of:
 
 ## Subfolders
 
-| Folder | Use |
+| Folder | Contents |
 |---|---|
-| `print/` | Brochures, ads, direct mail, event programs, fact sheets |
-| `digital/` | Web banners, display ads, digital signage, web page screenshots |
-| `social-media/` | Social posts by platform: instagram/, facebook/, linkedin/, x-threads/ |
-| `email/` | Full email renders and header/footer treatments |
-| `signage/` | Environmental, wayfinding, and event signage |
+| `advertising/` | Print and digital ads, playbills, booklets |
+| `brochures-itineraries/` | Travel itineraries, visitor guides, one-pagers |
+| `design-construction/` | Room layouts and facility planning documents |
+| `digital/` | Web banners, display ads, digital signage *(placeholder)* |
+| `educational/` | Curriculum materials, activity guides, recipe cards |
+| `email/` | Full email renders and header/footer treatments *(placeholder)* |
+| `event-logistics/` | Signage, tent cards, and event collateral |
+| `exhibits/` | Floorplans, exhibit guides, and interpretive materials |
+| `good-citizen/` | Podcast and video thumbnails, audiogram templates |
+| `interpretation/` | On-site interpretation flipbooks and site tour materials |
+| `invitations-flyers/` | Event invitations, email headers, holiday cards |
+| `posters-signage/` | Posters, banners, backdrops, popup displays |
+| `presentation-templates/` | Official Canva presentation templates (source designs) |
+| `print/` | Merchandise and miscellaneous print examples |
+| `rack-cards/` | Membership and event rack cards |
+| `rangers-wanted/` | Rangers Wanted character-based materials |
+| `social-media/` | Social content by type; `historic/` for TR history posts; platform subfolders for production assets |
+| `uniforms/` | Staff and event uniform reference photos |
+| `video/` | Video-related design assets and storyboards |
 
 ## Naming Convention
 
