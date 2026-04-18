@@ -1,0 +1,225 @@
+{
+  "_comment": "TRPL Brand Token Spec — machine-readable brand reference for AI design tools and automated systems. Source: Brand Identity System & Guidelines (Local Projects, May 27, 2020).",
+  "_version": "1.0.0",
+  "_lastUpdated": "2026-04-18",
+  "_contact": "Matt Briney, matt@trlibrary.com",
+
+  "brand": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "shortName": "TRPL",
+    "tagline": null,
+    "website": "https://trlibrary.com",
+    "location": {
+      "city": "Medora",
+      "state": "North Dakota",
+      "country": "United States"
+    },
+    "openingDate": "2026-07-04",
+    "architect": "Snøhetta",
+    "brandDesign": "Local Projects"
+  },
+
+  "voice": {
+    "attributes": ["action-oriented", "decisive", "inspiring", "earnest"],
+    "not": ["casual", "ironic", "clever", "vague", "partisan", "academic"],
+    "contentArc": ["story", "connection", "visit"],
+    "callToAction": "trlibrary.com/visit",
+    "terminology": {
+      "use": {
+        "visitors": "participants",
+        "board": "Trustees",
+        "donors": "benefactors",
+        "library": "the Library",
+        "foundation": "the Foundation",
+        "TR abbreviation": "T.R. (always with periods)"
+      },
+      "never": ["Teddy (in prose)", "visitors", "guests", "board members", "donors"]
+    }
+  },
+
+  "colors": {
+    "_source": "Brand Identity System & Guidelines, page 11",
+    "primary": [
+      {
+        "name": "Dark Gray",
+        "role": "Primary text color; dominant brand color; wordmark color",
+        "hex": "#25282A",
+        "rgb": { "r": 37, "g": 40, "b": 42 },
+        "pantone": "426C"
+      },
+      {
+        "name": "White",
+        "role": "Clean background; reversed text on dark surfaces",
+        "hex": "#FFFFFF",
+        "rgb": { "r": 255, "g": 255, "b": 255 }
+      }
+    ],
+    "grounding": [
+      {
+        "name": "Sand",
+        "role": "Primary warm background (use for backgrounds only)",
+        "hex": "#D1CCBD",
+        "rgb": { "r": 209, "g": 204, "b": 189 },
+        "pantone": "7534C",
+        "usageNote": "Used for backgrounds only per brand guidelines"
+      }
+    ],
+    "accent": [
+      {
+        "name": "Deep Orange",
+        "hex": "#E7805D",
+        "rgb": { "r": 231, "g": 128, "b": 93 },
+        "pantone": "2022C",
+        "usageNote": "Used for headline text only"
+      },
+      {
+        "name": "Sunset Pink",
+        "hex": "#F36079",
+        "rgb": { "r": 243, "g": 96, "b": 121 },
+        "pantone": "709C",
+        "usageNote": "Used for headline text only"
+      },
+      {
+        "name": "Sunset Orange",
+        "hex": "#FC924E",
+        "rgb": { "r": 252, "g": 146, "b": 78 },
+        "pantone": "2024C",
+        "usageNote": "Used for headline text only"
+      },
+      {
+        "name": "Dark Forest",
+        "hex": "#1B4532",
+        "rgb": { "r": 27, "g": 69, "b": 50 },
+        "pantone": "7484C",
+        "usageNote": "Used for headline text only"
+      },
+      {
+        "name": "Night Sky",
+        "hex": "#092A4D",
+        "rgb": { "r": 9, "g": 42, "b": 77 },
+        "pantone": "654C",
+        "usageNote": "Used for headline text only"
+      },
+      {
+        "name": "Bright Forest",
+        "hex": "#8FC895",
+        "rgb": { "r": 143, "g": 200, "b": 149 },
+        "pantone": "2255C",
+        "usageNote": "Used for headline text only"
+      },
+      {
+        "name": "Gray Sky",
+        "hex": "#99ADC5",
+        "rgb": { "r": 153, "g": 173, "b": 197 },
+        "pantone": "536C",
+        "usageNote": "Used for headline text only"
+      },
+      {
+        "name": "Sunset Yellow",
+        "hex": "#F9D635",
+        "rgb": { "r": 249, "g": 214, "b": 53 },
+        "pantone": "128C",
+        "usageNote": "Used for headline text only"
+      },
+      {
+        "name": "Spring Green",
+        "hex": "#87BB41",
+        "rgb": { "r": 135, "g": 187, "b": 65 },
+        "pantone": "368C",
+        "usageNote": "Used for headline text only"
+      }
+    ]
+  },
+
+  "typography": {
+    "_source": "Brand Identity System & Guidelines, pages 15–16",
+    "display": {
+      "family": "Dharma Gothic E",
+      "weights": ["ExBold", "Bold"],
+      "case": "ALL CAPS — always",
+      "use": "Display only. Calls to action, headlines, titling.",
+      "files": "assets/fonts/dharma-gothic/",
+      "webFiles": "assets/fonts/web/DharmaGothicE-*.woff2"
+    },
+    "body": {
+      "family": "ITC Clearface",
+      "postscriptName": "ClearfaceStd",
+      "weights": ["Regular", "Italic", "Bold", "BoldItalic", "Heavy", "HeavyItalic", "Black", "BlackItalic"],
+      "primaryWeight": "Regular",
+      "sizePrint": "11pt (standard body per letterhead spec)",
+      "sizeWeb": "16-18px",
+      "lineHeight": "1.5-1.65",
+      "use": "All body copy and long-form text",
+      "files": "assets/fonts/clearface/"
+    },
+    "caption": {
+      "family": "Frutiger Next Pro",
+      "weights": ["Light", "LightItalic", "Regular", "Italic", "Bold", "BoldItalic"],
+      "maxSize": "10pt — use only at 10pt or smaller",
+      "use": "Captions, credits, fine print, supporting labels",
+      "files": "assets/fonts/frutiger-next/",
+      "webFiles": "assets/fonts/web/FrutigerNextCom-*.woff2"
+    },
+    "decorative": {
+      "family": "Teddy Regular",
+      "use": "Decorative/accent use only — not for body or headlines",
+      "files": "assets/fonts/teddy/"
+    }
+  },
+
+  "logo": {
+    "_source": "Brand Identity System & Guidelines, page 37",
+    "marks": ["wordmark", "stamp-brand", "stamp-tr-initials"],
+    "clearSpace": "2x the width of the crossbar of the 'T' in 'Theodore' on all sides",
+    "minimumHeight": "0.75 inches (primary wordmark)",
+    "colorVersions": [
+      "black",
+      "dark-gray",
+      "white",
+      "black-on-white",
+      "dark-gray-on-white",
+      "white-on-black",
+      "white-on-dark-gray",
+      "orange",
+      "green",
+      "pink",
+      "gray-sky"
+    ],
+    "formats": {
+      "screen": ["SVG", "PNG"],
+      "print": ["EPS", "PDF"],
+      "sourceFiles": ["AI"]
+    },
+    "files": {
+      "wordmarks": "logos/wordmarks/",
+      "primary": "logos/primary/",
+      "stamps": "logos/monograms/",
+      "templates": "logos/lockups/"
+    }
+  },
+
+  "socialMedia": {
+    "handles": {
+      "_note": "Verify all handles before tagging in published content",
+      "instagram": "verify before use",
+      "facebook": "verify before use",
+      "linkedin": "verify before use",
+      "x": "verify before use",
+      "threads": "verify before use",
+      "bluesky": "verify before use"
+    },
+    "hashtags": {
+      "primary": ["#TRPresLib", "#TheodoreRoosevelt"],
+      "discovery": ["#TeddyRoosevelt"],
+      "location": ["#Medora", "#NorthDakota", "#Badlands"],
+      "thematic": ["#Conservation", "#America250", "#StrenuousLife"]
+    },
+    "ctaUrl": "trlibrary.com/visit",
+    "postGuidelines": {
+      "endEveryPostWith": "trlibrary.com/visit + relevant hashtags",
+      "longFormPlatforms": ["Facebook", "Instagram", "LinkedIn"],
+      "shortFormPlatforms": ["X", "Threads", "Bluesky"],
+      "quotePolicy": "TR quotes must be verbatim with source attribution — never paraphrased"
+    }
+  }
+}
