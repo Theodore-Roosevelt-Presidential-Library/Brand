@@ -19,8 +19,32 @@
     "brandDesign": "Local Projects"
   },
 
+  "institution": {
+    "_source": "Story Guide (Case International, September 2022)",
+    "pillars": ["Leadership", "Citizenship", "Conservation"],
+    "mission": "Explore Theodore Roosevelt's life, legacy, and enduring relevance.",
+    "vision": "Inspire action and fearless participation in the arena.",
+    "values": "Dare Greatly, Think Boldly, Care Deeply, Live Passionately.",
+    "guidingTenets": [
+      "Inspire Action In the Arena",
+      "The Participant Is the Hero",
+      "Stories Come to Life (Do, don't tell)",
+      "Nature Is Fundamental",
+      "Engage with Head, Hands, and Heart",
+      "The People's Library",
+      "Lessons Are for Today and Tomorrow",
+      "Worthy of Its Presidential Stature",
+      "Celebrate the Old but Embrace the New",
+      "Humanize, Don't Lionize"
+    ],
+    "contentArc": ["story", "connection", "visit"],
+    "distributedStorytelling": "Stories created inside the Library play out beyond its walls. The Library draws people in to push them back out, ready to Dare Greatly, Think Boldly, Care Deeply, and Live Passionately.",
+    "sensitiveTopics": ["Social Darwinism and Eugenics", "Native Americans", "Race and African Americans"],
+    "sensitiveTopicsPolicy": "Confront thoughtfully and directly with expert and community consultation. Do not omit or soften. See story-guide.md."
+  },
+
   "voice": {
-    "attributes": ["action-oriented", "decisive", "inspiring", "earnest"],
+    "attributes": ["action-oriented", "decisive", "open-minded", "heartfelt", "earnest"],
     "not": ["casual", "ironic", "clever", "vague", "partisan", "academic"],
     "contentArc": ["story", "connection", "visit"],
     "callToAction": "trlibrary.com/visit",

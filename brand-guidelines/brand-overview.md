@@ -2,17 +2,29 @@
 
 ## Who We Are
 
-The Theodore Roosevelt Presidential Library is a presidential library dedicated to Theodore Roosevelt's enduring legacy — located in Medora, North Dakota, the landscape that shaped him. We open July 4, 2026, timed to America's 250th anniversary.
+The Theodore Roosevelt Presidential Library is a presidential library dedicated to Theodore Roosevelt's enduring legacy — located in Medora, North Dakota, the landscape that shaped him. We open July 4, 2026, timed to America's 250th anniversary. Designed by Snøhetta, the building is itself a statement: an earthen roof rising from the butte, echoing the landforms of the Badlands, drawing people inside to push them back out into the landscape.
 
-We are not a museum that preserves the past under glass. We are an institution that uses the past to inspire action in the present. TR's stories of conservation, civic duty, and the strenuous life are not relics — they are instructions for living.
+We are not a museum that preserves the past under glass. We are an institution that uses the past to inspire action in the present. T.R.'s stories of conservation, civic duty, and the strenuous life are not relics — they are instructions for living.
 
-## Mission & Purpose
+## Three Pillars
 
-The Library exists to:
-- Preserve and share TR's life, legacy, and ideas
-- Inspire civic engagement and leadership across a politically diverse American audience
-- Connect visitors to the Badlands landscape that transformed Roosevelt
-- Serve as a gathering place for ideas, scholarship, and civic life
+All TRPL storytelling and institutional work flows from three foundational principles drawn from Roosevelt's life:
+
+**Leadership. Citizenship. Conservation.**
+
+The challenge is to curate an institution that, by exploring the themes of Roosevelt's legacy in these areas, influences participants on a personal level and invites them to contemplate what it means to be "Rooseveltian" in today's world.
+
+## Mission / Vision / Values
+
+| | |
+|---|---|
+| **Mission** | Explore Theodore Roosevelt's life, legacy, and enduring relevance. |
+| **Vision** | Inspire action and fearless participation in the arena. |
+| **Values** | Dare Greatly, Think Boldly, Care Deeply, Live Passionately. |
+
+## Purpose
+
+The Library uses Roosevelt's life and legacy to inspire the next generation of leaders, citizens, and conservationists to get in the arena. T.R.'s stories of conservation, civic duty, and the strenuous life are not relics — they are instructions for living.
 
 ## Brand Voice
 
@@ -36,12 +48,16 @@ Every piece of TRPL content should move through this arc:
 
 ## Audience
 
-Our content speaks to a broad, politically diverse American audience. TR's legacy — conservation, leadership, civic duty, the strenuous life — touches values shared across the spectrum. We never position TR's legacy as belonging to one political side.
+Our content speaks to a broad, politically diverse American audience. T.R.'s legacy — conservation, leadership, civic duty, the strenuous life — touches values shared across the spectrum. We never position T.R.'s legacy as belonging to one political side.
 
-**Primary audiences:**
-- General visitors and families planning trips to Medora
+The TRPL intends to be a global and intergenerational institution. The reach of the institution must extend far beyond those who pass through the Library's walls, to impact millions of people around the country and the world. That means everyone who touches the TRPL — whether engaging with the digital archive from halfway across the world or hiking the Badlands — is a participant.
+
+**Participant types include:** National Park visitors, conservationists and nature enthusiasts, Medora Musical visitors, T.R. enthusiasts and scholars, hikers and campers, indigenous culture scholars, wellness retreaters, American West road-trippers, cowboy enthusiasts, Medora and regional community groups, youth school groups, university groups, mountain bikers, horseback riding groups, critical historians, scholars and fellows, architecture buffs, veterans, and active/retired military.
+
+**Primary institutional audiences:**
+- General participants and families planning trips to Medora
 - Educators and students
-- Donors and prospective benefactors
+- Benefactors and prospective benefactors
 - Corporate and nonprofit partners
 - Media and journalists
 - Government officials
