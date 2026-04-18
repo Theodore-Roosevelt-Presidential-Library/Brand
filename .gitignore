@@ -1,1 +1,6 @@
-train/.DS_Store
+# macOS metadata files
+.DS_Store
+**/.DS_Store
+
+# Training data (source files, not for repo tracking)
+train/
