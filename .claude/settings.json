@@ -1,0 +1,16 @@
+{
+  "extraKnownMarketplaces": {
+    "trpl-brand": {
+      "source": {"source": "github", "repo": "Theodore-Roosevelt-Presidential-Library/Brand"},
+      "autoUpdate": true
+    },
+    "trpl-historian": {
+      "source": {"source": "github", "repo": "Theodore-Roosevelt-Presidential-Library/HistorianPanel"},
+      "autoUpdate": true
+    }
+  },
+  "enabledPlugins": {
+    "trpl-brand@trpl-brand": true,
+    "historian-panel@trpl-historian": true
+  }
+}

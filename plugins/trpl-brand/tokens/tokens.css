@@ -1,0 +1,19 @@
+/* Generated from tokens.json by scripts/build_tokens.py. Do not edit. */
+:root {
+  --trpl-dark-forest: #1B4532; /* Dark Forest (background) */
+  --trpl-night-sky: #092A4D; /* Night Sky (background) */
+  --trpl-dark-gray: #25282A; /* Dark Gray (background) */
+  --trpl-white: #FFFFFF; /* White (background) */
+  --trpl-sand: #D1CCBD; /* Sand (grounding) */
+  --trpl-deep-orange: #E7805D; /* Deep Orange (grounding) */
+  --trpl-bright-forest: #8FC895; /* Bright Forest (grounding) */
+  --trpl-gray-sky: #99ADC5; /* Gray Sky (grounding) */
+  --trpl-sunset-pink: #F36079; /* Sunset Pink (accent) */
+  --trpl-sunset-orange: #FC924E; /* Sunset Orange (accent) */
+  --trpl-sunset-yellow: #F9D635; /* Sunset Yellow (accent) */
+  --trpl-spring-green: #87BB41; /* Spring Green (accent) */
+  --trpl-font-display: "Dharma Gothic E", Impact, "Arial Narrow", sans-serif;
+  --trpl-font-body: "ITC Clearface", Georgia, "Times New Roman", serif;
+  --trpl-font-caption: "Frutiger Next", Arial, Helvetica, sans-serif;
+  --trpl-font-handwriting: "Teddy Regular";
+}
