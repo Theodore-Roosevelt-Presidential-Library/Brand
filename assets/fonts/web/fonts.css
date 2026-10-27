@@ -1,0 +1,30 @@
+/**
+ * Theodore Roosevelt Presidential Library — brand web fonts
+ *
+ * LICENSED FONTS. These webfonts are licensed to the Theodore Roosevelt
+ * Presidential Library for its own websites. All other parties are restricted
+ * from using them. Downloading them does not grant a license.
+ * Licenses: https://www.myfonts.com (Dharma Gothic by Dharma Type;
+ * Frutiger Next by Linotype). Copyright notices remain with their owners.
+ *
+ * ITC Clearface is not included for web use; body text falls back to Georgia,
+ * the approved substitute.
+ */
+
+@font-face { font-family: "Dharma Gothic E"; font-weight: 700; font-style: normal; font-display: swap; src: url("DharmaGothicE-Bold.woff2") format("woff2"); }
+@font-face { font-family: "Dharma Gothic E"; font-weight: 800; font-style: normal; font-display: swap; src: url("DharmaGothicE-ExBold.woff2") format("woff2"); }
+@font-face { font-family: "Dharma Gothic M"; font-weight: 700; font-style: normal; font-display: swap; src: url("DharmaGothicM-Bold.woff2") format("woff2"); }
+@font-face { font-family: "Dharma Gothic M"; font-weight: 800; font-style: normal; font-display: swap; src: url("DharmaGothicM-ExBold.woff2") format("woff2"); }
+
+@font-face { font-family: "Frutiger Next"; font-weight: 300; font-style: normal; font-display: swap; src: url("FrutigerNextCom-Light.woff2") format("woff2"); }
+@font-face { font-family: "Frutiger Next"; font-weight: 300; font-style: italic; font-display: swap; src: url("FrutigerNextCom-LightIta.woff2") format("woff2"); }
+@font-face { font-family: "Frutiger Next"; font-weight: 400; font-style: normal; font-display: swap; src: url("FrutigerNextCom-Regular.woff2") format("woff2"); }
+@font-face { font-family: "Frutiger Next"; font-weight: 400; font-style: italic; font-display: swap; src: url("FrutigerNextCom-Italic.woff2") format("woff2"); }
+@font-face { font-family: "Frutiger Next"; font-weight: 700; font-style: normal; font-display: swap; src: url("FrutigerNextCom-Bold.woff2") format("woff2"); }
+@font-face { font-family: "Frutiger Next"; font-weight: 700; font-style: italic; font-display: swap; src: url("FrutigerNextCom-BoldIta.woff2") format("woff2"); }
+
+:root {
+  --trpl-font-display: "Dharma Gothic E", Impact, "Arial Narrow", sans-serif;
+  --trpl-font-body: "ITC Clearface", Georgia, "Times New Roman", serif;
+  --trpl-font-caption: "Frutiger Next", Arial, Helvetica, sans-serif;
+}

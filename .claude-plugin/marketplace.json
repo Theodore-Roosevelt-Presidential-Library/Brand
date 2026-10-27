@@ -1,0 +1,17 @@
+{
+  "name": "trpl-brand",
+  "description": "Theodore Roosevelt Presidential Library: brand kit for Claude.",
+  "owner": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "url": "https://www.trlibrary.com"
+  },
+  "plugins": [
+    {
+      "name": "trpl-brand",
+      "source": "./plugins/trpl-brand",
+      "description": "Write, review and design on brand for the Theodore Roosevelt Presidential Library. Includes the editorial style guide, visual identity, design tokens and media sources.",
+      "category": "productivity",
+      "tags": ["brand", "style-guide", "design", "theodore-roosevelt"]
+    }
+  ]
+}

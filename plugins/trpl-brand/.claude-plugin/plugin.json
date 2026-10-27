@@ -1,0 +1,13 @@
+{
+  "name": "trpl-brand",
+  "displayName": "TRPL Brand Kit",
+  "description": "Brand standards for the Theodore Roosevelt Presidential Library: voice, editorial style, visual identity, Roosevelt orientation and media sources, with skills to write, review and design on brand and a hand-off to HistorianPanel for historical accuracy.",
+  "author": {
+    "name": "Theodore Roosevelt Presidential Library",
+    "url": "https://www.trlibrary.com"
+  },
+  "homepage": "https://brand.labs.trlibrary.com",
+  "repository": "https://github.com/Theodore-Roosevelt-Presidential-Library/Brand",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "keywords": ["brand", "style-guide", "editorial", "design-review", "theodore-roosevelt", "museums"]
+}
