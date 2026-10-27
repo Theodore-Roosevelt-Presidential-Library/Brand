@@ -5,6 +5,7 @@ Writes tokens.css, tailwind.preset.js and contrast.md next to tokens.json.
 Run with --check to fail if the generated files are out of date.
 """
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -91,6 +92,15 @@ def main():
     t = load()
     outputs = {"tokens.css": css(t), "tailwind.preset.js": tailwind(t), "contrast.md": contrast(t)}
     stale = []
+    guide = ROOT / "plugins/trpl-brand/guide/visual-identity.md"
+    g = guide.read_text()
+    new_g = re.sub(r"<!-- contrast-table:start -->.*?<!-- contrast-table:end -->",
+                   "<!-- contrast-table:start -->\n\n" + outputs["contrast.md"] + "\n<!-- contrast-table:end -->", g, flags=re.S)
+    if "--check" in sys.argv:
+        if new_g != g:
+            stale.append("contrast table in visual-identity.md")
+    else:
+        guide.write_text(new_g)
     for name, content in outputs.items():
         p = TOK / name
         if "--check" in sys.argv:

@@ -34,7 +34,7 @@ Marketing & Communications makes the final call between stacked and horizontal.
 | Background | Logo color |
 |------------|------------|
 | White | Dark Gray, Dark Forest or Night Sky. Black when appropriate |
-| Dark Gray, Dark Forest, Night Sky | White preferred |
+| Dark Gray, Dark Forest, Night Sky | White preferred; a grounding or accent color in specific applications, with enough contrast |
 | Grounding or accent color | Dark Gray. Black in select applications |
 | Photography | Complement the image; keep contrast |
 
@@ -146,7 +146,24 @@ put it on decorative pills, badges or labels that only look like buttons.
 Computed from the hex values (WCAG 2.x). **AAA** ≥ 7 · **AA** ≥ 4.5 ·
 **AA large** ≥ 3 (18 pt and up, or 14 pt bold) · **Fail** below 3.
 
-<!-- contrast-table -->
+<!-- contrast-table:start -->
+
+| Text color | on Dark Forest | on Night Sky | on Dark Gray | on White |
+|---|---|---|---|---|
+| Dark Forest | — | 1.3 Fail | 1.4 Fail | 10.8 AAA |
+| Night Sky | 1.3 Fail | — | 1.0 Fail | 14.5 AAA |
+| Dark Gray | 1.4 Fail | 1.0 Fail | — | 14.8 AAA |
+| White | 10.8 AAA | 14.5 AAA | 14.8 AAA | — |
+| Sand | 6.7 AA | 9.0 AAA | 9.2 AAA | 1.6 Fail |
+| Deep Orange | 3.9 AA large | 5.3 AA | 5.4 AA | 2.7 Fail |
+| Bright Forest | 5.6 AA | 7.5 AAA | 7.7 AAA | 1.9 Fail |
+| Gray Sky | 4.7 AA | 6.3 AA | 6.5 AA | 2.3 Fail |
+| Sunset Pink | 3.5 AA large | 4.7 AA | 4.8 AA | 3.1 AA large |
+| Sunset Orange | 4.8 AA | 6.5 AA | 6.6 AA | 2.2 Fail |
+| Sunset Yellow | 7.6 AAA | 10.1 AAA | 10.4 AAA | 1.4 Fail |
+| Spring Green | 4.7 AA | 6.4 AA | 6.5 AA | 2.3 Fail |
+
+<!-- contrast-table:end -->
 
 What this means:
 
@@ -155,8 +172,8 @@ What this means:
 - Deep Orange on Dark Forest passes for large text only.
 - Sunset Yellow and Sand are the most legible accents on dark backgrounds.
 
-The contrast matrix printed in v0.1 (page 53) has labeling errors. Use this
-table, which is calculated from the hex values.
+Use this table for contrast decisions. It is calculated directly from the hex
+values, so it stays exact if a color changes.
 
 ## Typography
 
@@ -188,8 +205,8 @@ Only when the brand fonts are unavailable, use the approved substitutes and
 | ITC Clearface Heavy, Heavy Italic | Georgia Bold, Bold Italic |
 | Frutiger Next (all weights) | Arial |
 
-v0.1 lists Baskerville Bold as the substitute for Frutiger Next Pro Bold. That
-entry is under review. Until it is confirmed, use Arial Bold.
+For Frutiger Next Bold, check the current Brand Style Guide; until it is
+confirmed there, ask Marketing & Communications.
 
 ### Typesetting
 
@@ -209,7 +226,7 @@ entry is under review. Until it is confirmed, use Arial Bold.
   They should feel collected, not decorative.
 - **Values as texture:** cropped, layered, enlarged or repeated, as a set, in
   Dharma Gothic E Bold (or Teddy Regular with approval).
-- **Textures:** sparingly, and only architectural textures of the Library itself.
+- **Textures:** sparingly. Layered imagery, ephemera, type and color create most of the depth; when more is needed, architectural textures tied to the Library's physical and historical character, used photographically.
 - **Patterns:** special use (retail, apparel) only, drawn from authentic sources
   (T.R.'s cattle brands, North Dakota botanicals, Badlands forms). Never generic
   Western or Americana motifs.

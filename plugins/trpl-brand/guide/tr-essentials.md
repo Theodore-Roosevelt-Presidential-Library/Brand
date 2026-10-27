@@ -12,7 +12,7 @@ checked independently; see [Accuracy and approvals](accuracy-and-approvals.md).
 
 ## Anchor facts
 
-| Fact | Check it at |
+| Starting point (verify before use) | Check it at |
 |------|-------------|
 | Born October 27, 1858, in New York City | [NPS: Theodore Roosevelt Birthplace](https://www.nps.gov/thrb/) |
 | First came to the Dakota Badlands in September 1883, to hunt bison; later ranched at the Maltese Cross and Elkhorn ranches | [NPS: Roosevelt and conservation](https://www.nps.gov/thro/learn/historyculture/theodore-roosevelt-and-conservation.htm) · [NPS: Roosevelt the rancher](https://www.nps.gov/thro/learn/historyculture/theodore-roosevelt-the-rancher.htm) |
@@ -24,8 +24,8 @@ checked independently; see [Accuracy and approvals](accuracy-and-approvals.md).
 
 - **T.R.** (with periods) or **Theodore Roosevelt**. Never "Teddy" in prose.
 - Period-correct titles: **Governor Roosevelt** (New York), **President
-  Roosevelt**, and **Colonel Roosevelt** after the presidency, the title he
-  preferred. As a child his family called him "Teedie."
+  Roosevelt**, and **Colonel Roosevelt** after the presidency, following the
+  Story Guide's conventions.
 
 ## Why the Badlands matter to the Library
 

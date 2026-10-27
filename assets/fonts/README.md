@@ -17,8 +17,8 @@
 | **Frutiger Next** (Light, Regular, Italic, Bold + italics) | Captions, credits, labels, footnotes | `desktop/frutiger-next/` · `web/FrutigerNextCom-*.woff2` | Linotype / Monotype |
 | **Teddy Regular** | From T.R.'s handwriting. One or two words at a time | `desktop/teddy/` | Custom face. **Use requires Marketing & Communications approval in every case** |
 
-**Not here:** TRPL Gothic, the custom signage face, is used only by the
-Library's environmental design team.
+**Not here:** TRPL Gothic, the custom signage face, and Frutiger Next Medium.
+Marketing & Communications supplies them for signage work.
 
 ## Desktop fonts (`desktop/`)
 
@@ -28,8 +28,8 @@ them to a personal account.
 
 ## Web fonts (`web/`)
 
-Licensed for the Library's own websites. Do not use them on other domains or in
-apps. [`fonts.css`](web/fonts.css) has the `@font-face` rules and the
+Licensed for the Library's own websites, including sites agencies build for the
+Library. Do not use them on other organizations' sites or in apps. [`fonts.css`](web/fonts.css) has the `@font-face` rules and the
 approved fallbacks:
 
 ```html
@@ -42,8 +42,8 @@ body { font-family: var(--trpl-font-body); }
 figcaption { font-family: var(--trpl-font-caption); }
 ```
 
-ITC Clearface has no web license in this kit, so web body copy uses the approved
-substitute, Georgia.
+ITC Clearface has no web license in this kit, so Georgia is the standard web
+body face. It needs no substitution note.
 
 ## When you can't use the brand fonts
 

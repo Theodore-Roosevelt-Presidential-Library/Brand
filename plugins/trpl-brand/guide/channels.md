@@ -77,6 +77,7 @@ apply everywhere. These are the extra rules for each channel.
 ## Print, merchandise and signage
 
 - Use Pantone C values for spot color and embroidery, Pantone U on uncoated stock.
-- Wayfinding, donor recognition and environmental signage headlines use **TRPL
-  Gothic**, matched to existing signage mechanicals.
+- Wayfinding, donor recognition and environmental signage use **TRPL Gothic**,
+  matched to existing signage mechanicals. Signage is coordinated through
+  Marketing & Communications, which supplies the typeface and mechanicals.
 - Patterns are for retail and apparel only, and drawn from authentic sources.

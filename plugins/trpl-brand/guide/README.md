@@ -10,6 +10,13 @@ This is the working brand guide for the Theodore Roosevelt Presidential Library.
 It is written for staff, agencies, partners and AI tools. Everything here is
 plain text so people and machines can both read it.
 
+## Who to ask
+
+Marketing & Communications owns the brand. Staff, agencies and partners go
+through their Library contact; if you don't have one, write to
+[hello@trlibrary.com](mailto:hello@trlibrary.com). "Ask Marketing &
+Communications" anywhere in this guide means that.
+
 ## What governs what
 
 | Area | Authority | Where |

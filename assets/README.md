@@ -15,7 +15,7 @@ recolored in approved brand colors; logos may not.
 |------|------|-------|
 | **Stacked (primary)** | First choice whenever space allows | [`logos/stacked/`](logos/stacked/): black, dark gray, white |
 | **Horizontal** | Only when stacked doesn't fit: website headers, sponsor placements | [`logos/horizontal/`](logos/horizontal/): black |
-| **Boxed lockup** | Busy backgrounds, stickers, patches, labels | [`logos/boxed/`](logos/boxed/): black on white, dark gray on white, white on black, white on dark gray |
+| **Boxed lockup** | Busy backgrounds, stickers, patches, labels | [`logos/boxed/`](logos/boxed/): dark gray on white, black on white, white on dark gray |
 
 On white, prefer **dark gray** over black. On Dark Gray, Dark Forest or Night
 Sky, use **white**.
@@ -47,6 +47,7 @@ does not give you a license.**
 ## Still to come
 
 - Horizontal logo in white and dark gray
+- Boxed lockups in Dark Forest and Night Sky
 - Dark Forest and Night Sky colorways of the logo
 - TR monogram favicon and app icon
 - Designer-exported SVGs for the TR Brand Mark and the Elkhorn Mark (the SVGs

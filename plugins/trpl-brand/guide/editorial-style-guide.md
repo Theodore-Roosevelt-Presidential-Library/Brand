@@ -262,13 +262,12 @@ See [Buttes](#buttes).
 ### Names and titles for T.R.
 
 - **Always** "T.R." with periods in prose.
-- **Never** "Teddy" in prose, headlines, captions or alt text. (Roosevelt
-  disliked it.) Hashtag exception: #TeddyRoosevelt. The common noun "teddy bear"
+- **Never** "Teddy" in prose, headlines, captions or alt text. Hashtag exception: #TeddyRoosevelt. The common noun "teddy bear"
   is fine when the subject is the toy.
 - Use the title correct for the period discussed: **Governor Roosevelt** for his
   governorship of New York, **President Roosevelt** for his presidency, and
-  **Colonel Roosevelt** for the years after the presidency, the title he
-  preferred. "Theodore" and "T.R." work in any period.
+  **Colonel Roosevelt** for the years after the presidency (the Story Guide's
+  convention). "Theodore" and "T.R." work in any period.
 
 ### Nonpartisan
 
@@ -299,6 +298,9 @@ quotations are never changed.
 > ~~Guests can explore three galleries.~~
 >
 > Participants explore three galleries.
+
+The rule is about the noun for people. "Visit" as a verb or a call to action
+("Plan your visit," "Visit the Library") is fine.
 
 Where "participants" feels stiff, rewrite around the person: "you," "families,"
 "students," "everyone who comes through the doors."

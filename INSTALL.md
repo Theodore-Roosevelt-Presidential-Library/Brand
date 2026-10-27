@@ -89,7 +89,8 @@ an image of T.R.
 
 - Organization-managed: automatic.
 - Desktop app: **Customize** → **Plugins** → the `trpl-brand` marketplace → **Update**.
-- Claude Code: `claude plugin marketplace update trpl-brand`, then `/reload-plugins`.
+- Claude Code: `claude plugin marketplace update trpl-brand`, then
+  `claude plugin update trpl-brand@trpl-brand` and `/reload-plugins`.
 
 Or ask Claude: "Update the brand kit."
 

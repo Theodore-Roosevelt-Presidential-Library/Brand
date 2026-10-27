@@ -42,7 +42,9 @@ Marketing & Communications says otherwise.
   presentation template for decks); copy a template rather than starting
   blank; apply the spec. Brand fonts come from the brand kit. Leave the design
   for a person to review; do not publish or share it.
-- **Claude Design or another AI design tool:** give it the spec plus
+- **Claude Design or another AI design tool:** for exploring options and
+  mockups only. Move the chosen direction into Canva for the finished piece
+  unless Marketing & Communications agrees otherwise. Give it the spec plus
   `https://brand.labs.trlibrary.com/llms-full.txt` and the logo files. Tell it
   to use real photos the person supplies, not generated ones.
 - **No design tool:** deliver the spec as a brief an agency can follow, with
