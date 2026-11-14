@@ -14,11 +14,15 @@ recolored in approved brand colors; logos may not.
 | Logo | When | Files |
 |------|------|-------|
 | **Stacked (primary)** | First choice whenever space allows | [`logos/stacked/`](logos/stacked/): black, dark gray, white |
-| **Horizontal** | Only when stacked doesn't fit: website headers, sponsor placements | [`logos/horizontal/`](logos/horizontal/): black |
+| **Horizontal** | Only when stacked doesn't fit: website headers, sponsor placements | [`logos/horizontal/`](logos/horizontal/): black, white |
 | **Boxed lockup** | Busy backgrounds, stickers, patches, labels | [`logos/boxed/`](logos/boxed/): dark gray on white, black on white, white on dark gray |
 
 On white, prefer **dark gray** over black. On Dark Gray, Dark Forest or Night
 Sky, use **white**.
+
+The white horizontal logo (SVG and PNG) was made from the black original by
+changing its fill color only; the artwork is otherwise identical. There is no
+EPS for it yet.
 
 Clear space: two "T" widths on every side (not built into the files). Minimum
 width: 0.85 in stacked, 1.25 in horizontal.
@@ -46,7 +50,7 @@ does not give you a license.**
 
 ## Still to come
 
-- Horizontal logo in white and dark gray
+- Horizontal logo in dark gray, and a designer-exported white EPS
 - Boxed lockups in Dark Forest and Night Sky
 - Dark Forest and Night Sky colorways of the logo
 - TR monogram favicon and app icon
